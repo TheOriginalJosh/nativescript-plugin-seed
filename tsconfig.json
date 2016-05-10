@@ -7,10 +7,12 @@
         "sourceMap": true
     },
     "files": [
-      "demo/node_modules/tns-core-modules/tns-core-modules.d.ts",
-      "yourplugin.common.ts",
-      "yourplugin.android.ts", 
-      "yourplugin.ios.ts"
+        "node_modules/tns-platform-declarations/android17.d.ts",
+        "node_modules/tns-platform-declarations/ios.d.ts",
+        "demo/node_modules/tns-core-modules/tns-core-modules.d.ts",
+        "yourplugin.common.ts",
+        "yourplugin.android.ts",
+        "yourplugin.ios.ts"
     ],
     "compileOnSave": false
 }
